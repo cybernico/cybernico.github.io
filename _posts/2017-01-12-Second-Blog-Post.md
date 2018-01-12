@@ -7,4 +7,6 @@ I wonder if this works.
 
 Please tell me.
 
-Is *this* bold?
+Is this **bold**?
+
+And is this *italics*?
