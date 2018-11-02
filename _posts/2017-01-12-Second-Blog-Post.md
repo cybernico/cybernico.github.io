@@ -1,12 +1,9 @@
 ---
 layout: post
-title: My Second Blog Post
+title: Hardware
 ---
+**Face**
+Eyes
+Smile
 
-I wonder if this works.
-
-Please tell me.
-
-Is this **bold**?
-
-And is this *italics*?
+**Voice**
